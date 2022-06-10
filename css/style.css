@@ -40,6 +40,11 @@ h1, h2, p {
     max-width: 500px;
 }
 
+hr {
+    width: -webkit-fill-available;
+    width: -moz-available;
+}
+
 footer {
     display: flex;
     flex-direction: row;
