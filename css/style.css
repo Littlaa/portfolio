@@ -45,6 +45,17 @@ hr {
     width: -moz-available;
 }
 
+.cards {
+    background-color: #131212;
+    max-width: 500px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.cards img {
+    max-width: 500px;
+}
+
 footer {
     display: flex;
     flex-direction: row;
