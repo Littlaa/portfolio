@@ -27,6 +27,7 @@ h1 {
 
 h2 {
     font-size: 32px;
+    font-family: "ocr", Verdana, Geneva, Tahoma, sans-serif;
 }
 
 p {
@@ -39,7 +40,6 @@ p {
 
 .top h1 {
     text-transform: uppercase;
-    font-family: ;
 }
 
 h1, h2, p {
