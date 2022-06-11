@@ -69,6 +69,10 @@ a {
     font-family: "ocr", Verdana, Geneva, Tahoma, sans-serif;
 }
 
+a:hover {
+    border: solid 1px;
+}
+
 .img_me {
     border-radius: 50%;
     max-width: 160px;
