@@ -30,6 +30,10 @@ h1, h2, p {
     color: #fff;
 }
 
+a {
+    text-decoration: none;
+}
+
 .img_me {
     border-radius: 40%;
     max-width: 160px;
@@ -53,6 +57,7 @@ hr {
 .cards {
     background-color: #131212;
     max-width: 300px;
+    height: 515px;
     padding: 20px;
     margin: 20px;
 }
