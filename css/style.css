@@ -36,7 +36,7 @@ a {
 }
 
 .img_me {
-    border-radius: 40%;
+    border-radius: 50%;
     max-width: 160px;
     
 }
@@ -48,6 +48,7 @@ a {
 hr {
     width: -webkit-fill-available;
     width: -moz-available;
+    color: #131212;
 }
 
 .projects {
