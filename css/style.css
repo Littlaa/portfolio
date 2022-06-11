@@ -3,6 +3,11 @@
     src: url(/font/OCR-A\ Regular.ttf) format("truetype");
 }
 
+@font-face {
+    font-family: "candara";
+    src: url(/font/candara-light.ttf) format("truetype");
+}
+
 body {
     min-height: 100vh;
     background-color: #000;
@@ -37,6 +42,7 @@ h3 {
 
 p {
     font-size: 18px;
+    font-family: "candara", Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .top {
