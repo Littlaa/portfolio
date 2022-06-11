@@ -48,7 +48,9 @@ a {
 hr {
     width: -webkit-fill-available;
     width: -moz-available;
-    color: #131212;
+    height: 2px;
+    background-color: #131212;
+    border: none;
 }
 
 .projects {
