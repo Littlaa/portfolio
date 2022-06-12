@@ -98,14 +98,14 @@ hr {
 
 .cards {
     background-color: #131212;
-    max-width: 295px;
+    max-width: 350px;
     height: 530px;
     padding: 20px;
     margin: 20px;
 }
 
 .cards img {
-    max-width: 295px;
+    width: 100%;
 }
 
 .margin_rain {
