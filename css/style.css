@@ -99,7 +99,6 @@ hr {
 .cards {
     background-color: #131212;
     max-width: 350px;
-    height: 530px;
     padding: 20px;
     margin: 20px;
 }
@@ -110,6 +109,10 @@ hr {
 
 .margin_rain {
     margin-top: 101px;
+}
+
+.margin_ecom {
+    margin-top: 40px;
 }
 
 .bottom {
